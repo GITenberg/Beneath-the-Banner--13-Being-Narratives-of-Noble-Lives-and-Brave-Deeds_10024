@@ -1,5 +1,8 @@
 _repo: Beneath-the-Banner--13-Being-Narratives-of-Noble-Lives-and-Brave-Deeds_10024
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cross, F. J. (Frederick J.)
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '3269'
     url: http://www.gutenberg.org/2009/agents/3269
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10024#Beneath-the-Banner--13-Being-Narratives-of-Noble-Lives-and-Brave-Deeds
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
